@@ -5,7 +5,7 @@ GitHub repository of Patrik Jozefovič for projects in the university course VRM
 
 The seminar paper focuses mainly on the topic of robotics in medical applications.
 
-Link: [Seminar Paper] <link>
+Link: [Seminar Paper] <link> 
 
 ## Description - Project 1:
 Further information will be added in following weeks.
