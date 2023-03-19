@@ -7,7 +7,7 @@ The seminar paper focuses mainly on the topic of robotics in medical application
 
 Link: https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution
 
-[https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution](https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution).
+[Solution](https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution).
 
 ## Description - Project 1:
 Further information will be added in following weeks.
