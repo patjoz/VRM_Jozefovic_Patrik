@@ -5,7 +5,9 @@ GitHub repository of Patrik Jozefovič for projects in the university course VRM
 
 The seminar paper focuses mainly on the topic of robotics in medical applications.
 
-Link: [Seminar Paper] (https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution)
+Link: https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution
+
+[https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution](https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Seminar_Paper/Solution).
 
 ## Description - Project 1:
 Further information will be added in following weeks.
