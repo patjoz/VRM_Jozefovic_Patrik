@@ -18,4 +18,4 @@ appear. If point is reachable but with different end-effector angle, an alternat
 NOTE: All needed python libraries are contained in requirements.txt file, uploaded with program.
 ****************************************************************************
 
-Thank you for understanding and have fun!
+Thank you for your understanding and have fun!
