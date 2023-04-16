@@ -13,4 +13,9 @@ Last adjustable parameter is configuration in which the robot reaches the desire
 Final command should look like scara.inverse.kinematics.([0.5, 0.5], 90, 0)
 Meaning - desired point is x = 0.5, y = 0.5, end-effector angle = 90° and with default configuration cfg = 0. If this point is not reachable, WARNING will 
 appear. If point is reachable but with different end-effector angle, an alternative angle is calculated and applied, WARNING will also appear notifying the user.
+
+***************************** PYTHON LIBRARIES *****************************
+NOTE: All needed python libraries are contained in requirements.txt file, uploaded with program.
+****************************************************************************
+
 Thank you for understanding and have fun!
