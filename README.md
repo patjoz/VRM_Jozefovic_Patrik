@@ -10,6 +10,8 @@ Link: [Seminar Paper - Robotics in Medical Field](https://github.com/patjoz/VRM_
 ## Description - Project 1:
 Further information will be added in following weeks.
 
+Link: [Project 1 - Two robotic arms and selective pick and place](https://github.com/patjoz/VRM_Jozefovic_Patrik/tree/main/Project_1/Solution).
+
 ## Description - Project 2:
 
 Further information will be added in following weeks.
